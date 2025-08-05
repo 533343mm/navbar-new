@@ -52,6 +52,7 @@ html,body {
 
 .navbar .links-a a:hover {
     color: rgb(21, 21, 126);
+    background-color: #ccc;
 }
 
 .navbar .logo-name {
@@ -433,6 +434,7 @@ before
 HTML
 تعمل بها اشكال والوان
 }
+
 
 
 
