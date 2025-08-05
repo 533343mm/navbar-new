@@ -32,6 +32,7 @@ html,body {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 40px;
 }
 
 .navbar .links-a a {
@@ -39,7 +40,7 @@ html,body {
     color: #ccc;
     font-size: 10px;
     font-weight: 600;
-    margin-left: 15px;
+    margin-left: 10px;
     transition: 0.5s;
 }
 
@@ -60,7 +61,7 @@ html,body {
 .navbar .logo-name {
     font-size: 15px;
     position: absolute;
-    right: 20px;
+    right: 40px;
     color: #ccc;
     animation: trans 3s linear infinite alternate;
 }
@@ -436,6 +437,7 @@ before
 HTML
 تعمل بها اشكال والوان
 }
+
 
 
 
